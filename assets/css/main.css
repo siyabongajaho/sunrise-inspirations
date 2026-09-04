@@ -1126,7 +1126,7 @@ section,
 }
 
 .featured-courses .course-image img {
-  width: 100%;
+  width: 50%;
   height: 100%;
   object-fit: cover;
   transition: transform 0.3s ease;
